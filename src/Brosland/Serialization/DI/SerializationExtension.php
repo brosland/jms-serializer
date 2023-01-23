@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace Brosland\Cms\Serialization\DI;
+namespace Brosland\Serialization\DI;
 
 use JMS\Serializer\EventDispatcher\EventDispatcher;
 use JMS\Serializer\EventDispatcher\EventSubscriberInterface;
